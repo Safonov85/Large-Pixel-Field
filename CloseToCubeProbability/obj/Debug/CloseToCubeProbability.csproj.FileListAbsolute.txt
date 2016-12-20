@@ -1,0 +1,8 @@
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\bin\Debug\CloseToCubeProbability.exe
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\bin\Debug\CloseToCubeProbability.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.csprojResolveAssemblyReference.cache
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.Properties.Resources.resources
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.csproj.GenerateResource.Cache
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.exe
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.pdb
+c:\users\mindator\documents\visual studio 2015\Projects\CloseToCubeProbability\CloseToCubeProbability\obj\Debug\CloseToCubeProbability.Form1.resources
